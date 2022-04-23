@@ -1,4 +1,8 @@
-### Hi there 👋
+## ✨ Hi, I'm Aleksi ✨
+
+[![Email Me](https://img.shields.io/badge/Email-audiovisuaali@jaudiovisuaali.net-BB001B.svg)](mailto:audiovisuaali@audiovisuaali.net)
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow-LinkedIn-2867B2.svg)](https://linkedin.com/in/audiovisuaali)
+
 
 I have a burning passion for developing innovative, performant and cutting-edge applications with detail. Including different types of backends, web and mobile applications alongside secure and efficient computing. I also have an eye for accessability.
 
