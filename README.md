@@ -1,6 +1,6 @@
 ## ✨ Hi, I'm Audio ✨
 
-[![Email Me](https://img.shields.io/badge/Email-audiovisuaali@jaudiovisuaali.net-BB001B.svg)](mailto:audiovisuaali@audiovisuaali.net)
+[![Email Me](https://img.shields.io/badge/Email-audiovisuaali@audiovisuaali.net-BB001B.svg)](mailto:audiovisuaali@audiovisuaali.net)
 [![Follow on LinkedIn](https://img.shields.io/badge/Follow-LinkedIn-2867B2.svg)](https://linkedin.com/in/audiovisuaali)
 
 
