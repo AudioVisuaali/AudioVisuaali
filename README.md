@@ -8,4 +8,4 @@ I have a burning passion for developing innovative, performant, and cutting-edge
 
 Before I started writing code, I spent my time playing video games and figuring out how computers work piece by piece by building them.
 
-Here's my Neovim [configuration](./nvim) <img src="https://cdn.frankerfacez.com/emoticon/270930/2" alt="WidePeepoHappy" height="20"/>
+Here's my Neovim [configuration](./nvim) <img src="https://cdn.frankerfacez.com/emoticon/270930/2" alt="WidePeepoHappy" height="16"/>
